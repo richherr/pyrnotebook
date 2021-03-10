@@ -63,24 +63,24 @@ dependencies:
   - r-manipulate
   - r-microbenchmark
   - r-microsoftr
-  - r-mkl_fft
-  - r-mkl_random
+  - mkl_fft
+  - mkl_random
   - r-mlmrev
   - r-mongolite
   - r-mrclient
   - r-mrclient-mlm
   - r-mrclient-mml
-  - r-mro
-  - r-mro-base
-  - r-mro-impl
-  - r-mro-basics
+  - mro
+  - mro-base
+  - mro-impl
+  - mro-basics
   - r-networkd3
-  - r-nlopt-static
+  - nlopt-static
   - r-nloptr
   - r-nmf
-  - r-numpy
-  - r-numpy-base
-  - r-numpy-devel
+  - numpy
+  - numpy-base
+  - numpy-devel
   - r-nycflights13
   - r-odbc
   - r-pdftools
@@ -94,7 +94,6 @@ dependencies:
   - r-profilemodel
   - r-profvis
   - r-qvcalc
-  - 
   - libgcc
   - gxx_linux-64
   - python                          
