@@ -22,7 +22,9 @@ dependencies:
   - r-acepack
   - r-rjava
   - r-leaps
-  - r-HH
+  - r-regnet
+  - r-aspect
+  - r-ade4
   - libgcc
   - gxx_linux-64
   - python                          
