@@ -33,6 +33,9 @@ dependencies:
   - r-Sim.DiffProc
   - r-simcdm
   - r-simsem
+  - r-polycor
+  - r-bagrboostr
+  - r-ggvis
   - libgcc
   - gxx_linux-64
   - python                          
