@@ -34,7 +34,6 @@ dependencies:
   - r-dt
   - r-emmeans
   - r-essentials
-  - r-essentials-mrclient
   - r-fastica
   - r-fbasics
   - r-feather
