@@ -19,7 +19,6 @@ dependencies:
   - r-cairo
   - r-abc.data
   - r-abc.rap
-  - r-abcoptim
   - r-abcp2
   - r-abe
   - r-abf2
