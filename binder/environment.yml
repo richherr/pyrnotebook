@@ -17,6 +17,38 @@ dependencies:
   - r-superlearner
   - r-caret
   - r-cairo
+  - r-abc.data
+  - r-abc.rap
+  - r-abcoptim
+  - r-abcp2
+  - r-abe
+  - r-abf2
+  - r-abodoutlier
+  - r-ac3net
+  - r-aca
+  - r-acceptancesampling
+  - r-acclma
+  - r-accrued
+  - r-acd
+  - r-acepack
+  - r-acet
+  - r-acfmperiod
+  - r-acopula
+  - r-acp
+  - r-acrt
+  - r-acs
+  - r-acss
+  - r-acss.data
+  - r-ada
+  - r-adapttest
+  - r-addhaz
+  - r-additivitytests
+  - r-ade4
+  - r-ade4tkgui
+  - r-adegraphics
+  - r-adeptdata
+  - r-adgoftest
+  - r-forecast
   - libgcc
   - gxx_linux-64
   - python                          
