@@ -33,7 +33,6 @@ dependencies:
   - r-acfmperiod
   - r-acopula
   - r-acp
-  - r-acrt
   - r-acs
   - r-acss
   - r-acss.data
