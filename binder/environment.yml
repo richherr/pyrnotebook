@@ -18,6 +18,8 @@ dependencies:
   - r-caret
   - r-cairo
   - r-forecast
+  - r-autoshiny
+  - r-acepack
   - libgcc
   - gxx_linux-64
   - python                          
