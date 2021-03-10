@@ -33,7 +33,6 @@ dependencies:
   - r-drr
   - r-dt
   - r-emmeans
-  - r-essentials
   - r-fastica
   - r-fbasics
   - r-feather
