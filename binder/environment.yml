@@ -25,6 +25,22 @@ dependencies:
   - r-regnet
   - r-aspect
   - r-ade4
+  - r-rsem
+  - r-sem 
+  - r-semdiag
+  - r-semds
+  - r-SEMModComp
+  - r-SemNeT
+  - r-semPlot
+  - r-semPLS
+  - r-semTools
+  - r-semtree
+  - r-SensoMineR
+  - r-ShinyItemAnalysis
+  - r-Sim.DiffProc
+  - r-simcdm
+  - r-simsem
+  - r-sirt
   - libgcc
   - gxx_linux-64
   - python                          
