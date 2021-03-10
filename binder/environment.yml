@@ -44,8 +44,6 @@ dependencies:
   - r-addhaz
   - r-additivitytests
   - r-ade4
-  - r-ade4tkgui
-  - r-adegraphics
   - r-adeptdata
   - r-adgoftest
   - r-forecast
