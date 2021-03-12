@@ -26,6 +26,15 @@ dependencies:
   - r-sem 
   - r-polycor
   - r-ggvis
+  - r-relimp
+  - r-sparklyr
+  - r-sparkr
+  - r-sparsemvn
+  - r-sparsesem
+  - r-sparsesvd
+  - r-sparsesvm
+  - r-clustergeneration
+  - r-sautomata
   - libgcc
   - gxx_linux-64
   - python                          
